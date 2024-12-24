@@ -3,7 +3,7 @@ by Max Yenlee & Raven (Ruiwen) Tang
 
 Hello!!! 
 
-You may access our project [here]([https://glowscript.org/#/user/mavenphysics/folder/MyPrograms/program/FinalProject]). You can find our source code within this repository, in the `code.py` file.
+You may access our project [here](https://glowscript.org/#/user/mavenphysics/folder/MyPrograms/program/FinalProject). You can find our source code within this repository, in the `code.py` file.
 
 Our project models a rollercoaster with the following components:
 1. An initial fricitionless downward ramp (at an angle of 45 degrees)
