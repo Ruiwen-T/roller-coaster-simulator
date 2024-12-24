@@ -1,7 +1,7 @@
 # roller-coaster-simulator
 by Max Yenlee & Raven (Ruiwen) Tang
 
-Hello!!! You may access our project [here]([url](https://glowscript.org/#/user/mavenphysics/folder/MyPrograms/program/FinalProject)). You can find our source code within this repository, in the code.py file.
+Hello!!! You may access our project [here]([https://glowscript.org/#/user/mavenphysics/folder/MyPrograms/program/FinalProject]). You can find our source code within this repository, in the code.py file.
 
 Our project models a rollercoaster with the following components:
     1. An initial fricitionless downward ramp (at an angle of 45 degrees)
@@ -32,7 +32,6 @@ How to use our program!
         3. Acceleration due to gravity (from 1 m/s^2 to 20 m/s^2)
         4. Mass of cart (from 1 kg to 10 kg)
         5. Friction coefficient for last flat part (from 0.5 to 0.9)
-
     After beginning the program, the user can adjust the sliders and then press 
     the start button to see the cart begin its journey down the track. At this
     time, the start button will switch to a pause button. At any time, the user 
@@ -48,5 +47,4 @@ How to use our program!
         5. Friction coefficient of last flat part = 0.9
     The sliders can only be modified in 2 situations: 1) before the start button 
     is pressed for the first time, and 2) when the simulation has been reset.
-    
     Enjoy the graphs displaying kinetic, potential, and total energy of the cart!
